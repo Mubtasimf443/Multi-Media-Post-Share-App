@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "formidable": "^3.5.2",
+    "googleapis": "^144.0.0",
+    "mongoose": "^8.7.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.7",
+    "oauth-1.0a": "^2.2.6",
+    "string-player": "^1.0.1"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
